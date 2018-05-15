@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+	<issue id="all" severity="error"/>
+	<issue id="AllowBackup" severity="warning"/>
+	<issue id="GoogleAppIndexingApiWarning" severity="warning"/>
+	<issue id="GoogleAppIndexingWarning" severity="warning"/>
+</lint>
